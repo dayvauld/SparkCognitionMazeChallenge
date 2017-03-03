@@ -16,7 +16,7 @@ To Compile (From cloned project):
 *javac /src/com/sparkcognition/Main.java /src/com/sparkcognition/Maze.java*
 
 May change based on where you may be located in terminal, navigate to 'SparkCognitionMazeChallenge/src/' directory and run:
-*java com.sparkcognition.Main ../maze.txt*
+*java com.sparkcognition.Main ../mazes.txt*
 
 *Built in IntellJ IDEA (MAC OS X) using JDK8, can also import project into IDE and run program from there*
 
