@@ -2,14 +2,14 @@
 
 Simple program to input a text-based maze and have the solved directions output to terminal.
 
-Alt-H2
+Usage
 ------
-Use - main <input file.txt>
+Use - com.sparkcognition.Main <\input file.txt>
 
-The input text file must follow this format:
-(<rows>,<columns>)-(#,#,#,#,...)\n
-(<rows>,<columns>)-(#,#,#,#,...)\n
-(<rows>,<columns>)-(#,#,#,#,...)\n
+The input text file must follow this format:<br>
+(\<rows>,\<columns>)-(#,#,#,#,...)<br>
+(\<rows>,\<columns>)-(#,#,#,#,...)<br>
+(\<rows>,\<columns>)-(#,#,#,#,...)<br>
 ...
 
 To Compile (From cloned project):
@@ -18,7 +18,7 @@ javac main.java maze.java
 May change based on where you may be located in terminal, navigate to 'src' directory and run:
 java com.sparkcognition.Main ../maze.txt
 
-*Build in IntellJ IDEA, can also import project into IDE and run from there*
+*Built in IntellJ IDEA, can also import project into IDE and run from there*
 
 ## Requirements
 
